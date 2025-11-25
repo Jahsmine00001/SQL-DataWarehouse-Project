@@ -1,35 +1,58 @@
-## Data Warehouse And Analytics Project
+# Data Warehouse and Analytics Project
 
-Welcome to my **Data Warehouse and Analytics Project** repository. 🚀
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
-------------
+Welcome to the Data Warehouse and Analytics Project repository.  
+This project presents a complete data warehousing and analytics solution, from building a structured warehouse environment to generating meaningful insights.  
+It is designed as a portfolio piece that demonstrates modern practices in data engineering and analytics.
 
-🚀 #**Project Requirements**
+## 📌 Project Requirements
 
-**Building the Data Warehouse (Data Engineering)**
+## Building the Data Warehouse (Data Engineering)
 
-**Objective**
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision making.
+### Objective
+Create a modern data warehouse in SQL Server that brings multiple data sources together into one analytical environment.  
+The aim is to provide a dependable foundation for reporting and insight generation.
 
-**Specifications**
-• **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-• **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-• **Integration**: Combine both sources into a single, user friendly data model designed for analytical queries.
-• **Scope**: Focus on the latest dataset only, historization of data is not required.
-• **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+### 🧱 Specifications
 
-BI: Analytics and Reporting (Data Analytics)
+**• Data Sources**  
+Load data from two operational systems provided as CSV files.
 
-Objective
-Develop SQL based analytics to deliver detailed insights into:
-• Customer Behavior
-• Product Performance
-• Sales Trends
+**• Data Quality**  
+Detect and resolve quality issues before analysis begins.
 
-These insights empower stakeholders with key business metrics, enabling strategic decision making.
+**• Integration**  
+Combine the different source feeds into one simplified and analytics ready data model.
 
-License
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+**• Scope**  
+Use only the most recent version of the dataset.  
+Tracking historical changes is not required.
 
-About Me
-Hi there. I am Bakr Khatib Salikini, also known as Data With Baraa. I am an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging.
+**• Documentation**  
+Prepare clear documentation of the data model to support both business stakeholders and analytics teams.
+
+## 📈 BI Analytics and Reporting (Data Analytics)
+
+### Objective
+Develop SQL based analytical outputs that reveal insights in key business domains.
+
+### Focus Areas
+
+**• Customer Behavior**  
+**• Product Performance**  
+**• Sales Trends**
+
+These outputs help stakeholders understand core business metrics and support strategic decisions.
+
+## 📜 License
+This project is made available under the MIT License.  
+Feel free to use, modify, and redistribute it with proper credit.
+
+## 👤 About Me
+
+Hi. My name is Samuel Ayomide Makanjuola.  
+I am a data enthusiast with growing expertise in Analytics Engineering, BI Analysis, Full Stack Data Analysis, data engineering, analytics, and data modelling.  
+I enjoy building practical data solutions that transform raw information into insights that support real business decisions.
+
+If you are interested in collaborating or exploring opportunities with me, feel free to reach out.  
+I am open to roles, projects, and partnerships within the data space.
+
