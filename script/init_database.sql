@@ -33,7 +33,7 @@ GO
 
 -- Creating Schemas
 
-CREATE SCHEMA broze;
+CREATE SCHEMA bronze;
 GO
 
 CREATE SCHEMA silver;
