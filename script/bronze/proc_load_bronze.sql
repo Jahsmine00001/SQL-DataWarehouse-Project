@@ -1,3 +1,22 @@
+/*
+=========================================================================================
+Stored Procedure: Load Bronze Layer (Source -> Bronze)
+=========================================================================================
+Script Purpose:
+	This stored procedure loads data into the 'bronze'schema from external CSV files.
+	It performs the following actions:
+	- Truncate the bronze tables before loading data.
+	- Uses the 'BULT INSERT' command to load data from csv files to bronze tables.
+
+Parameters:
+	None.
+  This Stored procedure does not accept any parameter or return any values.
+
+Usage Exaample:
+		EXECT bronze.load_bronze;
+	====================================================================================
+*/
+
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS 
 BEGIN
 	DECLARE @start_time DATETIME, @end_time DATETIME, @batch_start_time DATETIME, @batch_end_time DATETIME
