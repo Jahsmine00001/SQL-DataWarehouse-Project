@@ -13,7 +13,7 @@ Parameters:
   This Stored procedure does not accept any parameter or return any values.
 
 Usage Exaample:
-		EXECT bronze.load_bronze;
+		EXEC bronze.load_bronze;
 	====================================================================================
 */
 
