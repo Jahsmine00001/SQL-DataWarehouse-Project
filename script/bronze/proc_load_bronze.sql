@@ -6,7 +6,7 @@ Script Purpose:
 	This stored procedure loads data into the 'bronze'schema from external CSV files.
 	It performs the following actions:
 	- Truncate the bronze tables before loading data.
-	- Uses the 'BULT INSERT' command to load data from csv files to bronze tables.
+	- Uses the 'BULK INSERT' command to load data from csv files to bronze tables.
 
 Parameters:
 	None.
